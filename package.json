@@ -1,0 +1,13 @@
+{
+  "name": "tarea07-calidad-seguridad-lab",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Laboratorio reducido de SAST/SCA/SBOM independiente de OWASP NodeGoat",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "lodash": "4.17.11"
+  }
+}
